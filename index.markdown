@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## [Study Blog](https://daseintheworld.github.io/study/)
+## [Study](https://daseintheworld.github.io/blog.study/)
 <br>
 
-## [Interaction Devices Blog](https://daseintheworld.github.io/interaction/about/)
+## [Interaction Devices](https://daseintheworld.github.io/blog.interaction/about/)
